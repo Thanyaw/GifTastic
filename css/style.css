@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#buttonview{
+    padding-bottom: 40px;
+}
+
+.jumbotron{
+    background-color: white;
+    padding: 20px;
+    margin: 50px;
+}
+
+.col-sm-8{
+    border-style: solid;
+}
+
+.image{
+    padding: 20px;
+    margin: 10px;
+    width:100%;
+}
+
+#add-food{
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+}
+
+.food-btn{
+    background-color: black;
+    color: white;
+}
+
+#food-input{
+    border-style: solid;
+}
